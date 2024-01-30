@@ -1,0 +1,30 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2024-01-30 01:01:14.072332000 Z
+    - 2024-01-30 01:01:14.072332000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - The Chosen
+    - 2024-01-30 01:06:17.141261000 Z
+    - 2024-01-30 01:06:17.141261000 Z
+  - - 2
+    - Midnight
+    - 2024-01-30 01:06:28.346211000 Z
+    - 2024-01-30 01:06:28.346211000 Z
